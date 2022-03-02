@@ -24,5 +24,12 @@
             "message": "Success",
             "status": 0
         }
+    },
+    "invalidClaimToken": {
+        "response": {},
+        "meta": {
+            "message": "Invalid claim token",
+            "status": 780
+        }
     }
 }
