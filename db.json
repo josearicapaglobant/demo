@@ -26,7 +26,9 @@
         }
     },
     "invalidClaimToken": {
-        "response": {},
+        "response": {
+            "gifterUserId": 50993588
+        },
         "meta": {
             "message": "Invalid claim token",
             "status": 780
