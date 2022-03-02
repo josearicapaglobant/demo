@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "getClaimTicketWithToken":{
+    "gifterUserId" : 50993588
   }
 }
