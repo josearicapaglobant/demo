@@ -1,9 +1,19 @@
 {
+    "posts": [
+        {
+            "id": 1,
+            "title": "hello"
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    },
     "getClaimTicketWithToken": [
         {
+            "id": 1,
             "response": {
                 "gifterUserId": 50993588,
-                "gifterFirstName": "Test JLA",
+                "gifterFirstName": "Test",
                 "gifterLastName": "Test",
                 "gifterEmail": "qa02212020b@qa.gannett.com",
                 "gifterLicenseId": 51768615,
