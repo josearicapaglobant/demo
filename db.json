@@ -1,30 +1,28 @@
 {
-    "getClaimTicketWithToken": [
-        {
-            "claimTicketToken": "12001086270g2dGOhx69",
-            "response": {
-                "gifterUserId": 50993588,
-                "gifterFirstName": "Test",
-                "gifterLastName": "Test",
-                "gifterEmail": "qa02212020b@qa.gannett.com",
-                "gifterLicenseId": 51768615,
-                "gifteeUserId": 0,
-                "gifteeFirstName": "Share",
-                "gifteeLastName": "Three",
-                "gifteeEmail": "share3test@yopmail.com",
-                "gifteeLicenseId": 0,
-                "productIds": null,
-                "claimCode": "43481941Be",
-                "currentGifteeUserId": "1",
-                "status": "status",
-                "daysFree": 0,
-                "slotsFree": 0,
-                "promoType": "Share"
-            },
-            "meta": {
-                "message": "Success",
-                "status": 0
-            }
+    "getClaimTicketWithToken": {
+        "claimTicketToken": "12001086270g2dGOhx69",
+        "response": {
+            "gifterUserId": 50993588,
+            "gifterFirstName": "Test",
+            "gifterLastName": "Test",
+            "gifterEmail": "qa02212020b@qa.gannett.com",
+            "gifterLicenseId": 51768615,
+            "gifteeUserId": 0,
+            "gifteeFirstName": "Share",
+            "gifteeLastName": "Three",
+            "gifteeEmail": "share3test@yopmail.com",
+            "gifteeLicenseId": 0,
+            "productIds": null,
+            "claimCode": "43481941Be",
+            "currentGifteeUserId": "1",
+            "status": "status",
+            "daysFree": 0,
+            "slotsFree": 0,
+            "promoType": "Share"
+        },
+        "meta": {
+            "message": "Success",
+            "status": 0
         }
-    ]
+    }
 }
