@@ -11,6 +11,7 @@
     "getClaimTicketWithToken": [
         {
             "id": 1,
+            "claimTicketToken": 1,
             "response": {
                 "gifterUserId": 50993588,
                 "gifterFirstName": "Test",
