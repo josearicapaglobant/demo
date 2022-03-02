@@ -1,17 +1,7 @@
 {
-    "posts": [
-        {
-            "id": 1,
-            "title": "hello"
-        }
-    ],
-    "profile": {
-        "name": "typicode"
-    },
     "getClaimTicketWithToken": [
         {
-            "id": 1,
-            "claimTicketToken": 1,
+            "claimTicketToken": "12001086270g2dGOhx69",
             "response": {
                 "gifterUserId": 50993588,
                 "gifterFirstName": "Test",
@@ -29,33 +19,6 @@
                 "status": "status",
                 "daysFree": 0,
                 "slotsFree": 0,
-                "promoType": "Share"
-            },
-            "meta": {
-                "message": "Success",
-                "status": 0
-            }
-        },
-        {
-            "id": 2,
-            "claimTicketToken": 2,
-            "response": {
-                "gifterUserId": 2250993588,
-                "gifterFirstName": "Test 2",
-                "gifterLastName": "Test 2",
-                "gifterEmail": "qa02212020b@qa.gannett.com 2",
-                "gifterLicenseId": 51768615,
-                "gifteeUserId": 0,
-                "gifteeFirstName": "Share 2",
-                "gifteeLastName": "Three 2",
-                "gifteeEmail": "share3test@yopmail.com",
-                "gifteeLicenseId": 0,
-                "productIds": null,
-                "claimCode": "43481941Be",
-                "currentGifteeUserId": "2",
-                "status": "status",
-                "daysFree": 2,
-                "slotsFree": 2,
                 "promoType": "Share"
             },
             "meta": {
