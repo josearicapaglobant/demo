@@ -33,5 +33,14 @@
             "message": "Invalid claim token",
             "status": 780
         }
+    },
+    "redeemedClaimToken": {
+        "response": {
+            "gifterUserId": 50993588
+        },
+        "meta": {
+            "message": "This claim token has already been redeemed",
+            "status": 770
+        }
     }
 }
