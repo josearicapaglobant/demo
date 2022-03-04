@@ -69,22 +69,7 @@
     },
     "invalidParentAccount": {
         "response": {
-            "gifterUserId": 50993588,
-            "gifterFirstName": "Test",
-            "gifterLastName": "Test",
-            "gifterEmail": "qa02212020b@qa.gannett.com",
-            "gifterLicenseId": 51768615,
-            "gifteeUserId": 0,
-            "gifteeFirstName": "Share",
-            "gifteeLastName": "Three",
-            "gifteeEmail": "share3test@yopmail.com",
-            "gifteeLicenseId": 0,
-            "productIds": null,
-            "claimCode": "43481941Be",
-            "acceptedEmail": "fake@fake.com",
-            "acceptedSocialId": "1A",
-            "startDate": null,
-            "stopDate": null
+            "gifterUserId": 50993588
         },
         "meta": {
             "message": "Invalid parent account",
