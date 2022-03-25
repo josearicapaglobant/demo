@@ -7,5 +7,14 @@
             "message": "Success",
             "status": 0
         }
+    },
+    "redeemPromoCode": {
+        "response": {
+            "claimCode": 1
+        },
+        "meta": {
+            "message": "Success",
+            "status": 0
+        }
     }
 }
