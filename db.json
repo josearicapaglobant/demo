@@ -75,5 +75,14 @@
             "message": "Invalid parent account",
             "status": 779
         }
+    },
+    "validateClaimTicket": {
+        "response": {
+            "claimCode": 1
+        },
+        "meta": {
+            "message": "Success",
+            "status": 0
+        }
     }
 }
