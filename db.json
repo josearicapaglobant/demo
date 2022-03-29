@@ -8,7 +8,7 @@
             "status": 0
         }
     },
-    "redeemPromoCode": {
+    "successResponse": {
         "response": {
             "claimCode": 1
         },
