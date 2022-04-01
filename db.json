@@ -10,7 +10,8 @@
     },
     "successResponse": {
         "response": {
-            "claimCode": 1
+            "claimCode": 1,
+            "shareToken": "YEQgY8qspxG+ur8Rj5mQv2P0x94cppzitT5d1qe9LNHRfmNjlQxXMeyjx5kvVnBdHL7X7/Eh+T8jVPomZ/McnCB9C2s+UAEde5f5SMjMDoCInUck+AGvzgCRisjPMwS3"
         },
         "meta": {
             "message": "Success",
